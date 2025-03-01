@@ -1,2 +1,2 @@
 # Prime-anime-
-Prime anime is a anime and cartoon website
+Prime anime is a anime and cartoon websites
